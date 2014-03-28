@@ -1,0 +1,11 @@
+#!/usr/bin/python
+import sys
+import modulopi
+PI = 3.1415926535897931159979634685441852
+
+valores= (10, 100, 1000, 10000)
+for valor in valores:
+  y=float(modulo.modulopi(valor))
+  print y
+  
+  
